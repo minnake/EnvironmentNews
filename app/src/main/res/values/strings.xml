@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Environment News</string>
+
+    <string name="no_author">No author</string>
+
+    <string name="no_internet">No internet connection.</string>
+    <string name="no_news">No news found. Refresh and try again.</string>
+
+    <string name="problem_http_request">Problem making the HTTP request</string>
+    <string name="error_url">Error with creating URL</string>
+    <string name="error_code">Error response code: </string>
+    <string name="problem_retrieving_results">Problem retrieving the news JSON results</string>
+    <string name="problem_parsing">Utils, problem parsing the news JSON results</string>
+
+    <!-- Settings -->
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+
+    <string name="settings_page_size_label">Page size</string>
+    <string name="settings_page_size_key" translatable="false">page_size</string>
+    <string name="settings_page_size_default" translatable="false">@string/settings_page_size_10_value</string>
+
+    <string name="settings_page_size_5_label">5</string>
+    <string name="settings_page_size_5_value" translatable="false">5</string>
+
+    <string name="settings_page_size_10_label">10</string>
+    <string name="settings_page_size_10_value" translatable="false">10</string>
+
+    <string name="settings_page_size_15_label">15</string>
+    <string name="settings_page_size_15_value" translatable="false">15</string>
+
+    <!-- Strings For Order-By Preference -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_most_recent_value</string>
+
+    <!-- Label for order-by relevance option -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <!-- Label for order-by most recent option -->
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">newest</string>
+
+    <!-- Label for order-by most recent option -->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+
+</resources>
