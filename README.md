@@ -1,6 +1,4 @@
-# Environment News
-
-News App, Part 2 
+# News App, Part 2 
 
 Project Overview 
 
@@ -35,9 +33,3 @@ For this project, you'll be adding a Settings Activity to the News App you've al
 You will be using the Guardian API for this project as well. 
 
 Refer to the Preferences Lesson if needed. 
-
-Your project will be evaluated using the News App, Stage 2 project rubric. 
-
-Additional Criteria 
-
-The intent of this project is to give you practice writing raw Java code using the necessary classes provided by the Android framework; therefore, the use of external libraries will not be permitted to complete this project. 
